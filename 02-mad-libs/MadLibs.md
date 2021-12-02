@@ -1,5 +1,16 @@
 # Mad Libs
 
+- [Mad Libs](#mad-libs)
+  - [Before Starting](#before-starting)
+  - [Variables and User Input](#variables-and-user-input)
+  - [Launch Eclipse](#launch-eclipse)
+  - [Create a new Project](#create-a-new-project)
+  - [Create a new Class File](#create-a-new-class-file)
+  - [Reading and Writing User Input](#reading-and-writing-user-input)
+  - [Understanding the Code](#understanding-the-code)
+  - [Challenge #1](#challenge-1)
+  - [Challenge #2](#challenge-2)
+
 ## Before Starting
 
 Before starting this activity, you should have completed the Getting Started with Eclipse activity and Two Truths and a Lie challenge. You should feel comfortable using `System.out.println` to print messages to the console.
@@ -96,7 +107,7 @@ Take a screenshot of your console area and add it to this document.
 
 ## Understanding the Code
 
-Next, lets look at each line of code you wrote one by one and explain what it does.
+Next, let's look at each line of code you wrote one by one and explain what it does.
 
 1. On line 5, you wrote `java.util.Scanner consoleReader = new java.util.Scanner(System.in);`
 
